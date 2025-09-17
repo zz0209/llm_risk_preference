@@ -1,0 +1,15 @@
+{
+  "Variable": "PHYS2_19",
+  "Variable Label": "[Wiped packages entering my home] Which of the following measures, if any, are you taking in response to the coronavirus?",
+  "options": [
+    {
+      "Value": 0,
+      "Value Label": "(0) No"
+    },
+    {
+      "Value": 1,
+      "Value Label": "(1) Yes"
+    }
+  ],
+  "Category": "action"
+}

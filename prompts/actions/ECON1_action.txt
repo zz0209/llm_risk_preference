@@ -1,0 +1,31 @@
+{
+  "Variable": "ECON1",
+  "Variable Label": "In the past 7 days, did you do any work for pay at a job or business?",
+  "options": [
+    {
+      "Value": 1,
+      "Value Label": "(1) Yes, I worked for someone else for wages, salary, piece"
+    },
+    {
+      "Value": 2,
+      "Value Label": "(2) Yes, I worked as self-employed in my own business, profe"
+    },
+    {
+      "Value": 3,
+      "Value Label": "(3) No, I did not work for pay last week."
+    },
+    {
+      "Value": 77,
+      "Value Label": "(77) DON'T KNOW"
+    },
+    {
+      "Value": 98,
+      "Value Label": "(98) SKIPPED ON WEB"
+    },
+    {
+      "Value": 99,
+      "Value Label": "(99) REFUSED"
+    }
+  ],
+  "Category": "action"
+}

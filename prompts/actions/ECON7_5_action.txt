@@ -1,0 +1,15 @@
+{
+  "Variable": "ECON7_5",
+  "Variable Label": "[Borrow from a friend or family member] Based on your current financial situation, how would you pay for this expense?",
+  "options": [
+    {
+      "Value": 0,
+      "Value Label": "(0) No"
+    },
+    {
+      "Value": 1,
+      "Value Label": "(1) Yes"
+    }
+  ],
+  "Category": "action"
+}

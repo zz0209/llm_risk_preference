@@ -1,0 +1,83 @@
+Your Geographic area is {P_GEO}.
+Generally speaking, you would trust {SOC1} of the people in your neighborhood.
+In the past month, you talked with neighbors {SOC2A}.
+Prior to March 1, 2020, you talked with neighbors {SOC2B}.
+In the past month, you communicated with friends and family {SOC3A}.
+Prior to March 1, 2020, you communicated with friends and family {SOC3B}.
+In the past month, you spent time volunteering: {SOC4A}.
+Prior to March 1, 2020, you spent time volunteering: {SOC4B}.
+Your general health is {PHYS8}.
+In the past 7 days, Fever: {PHYS1A}.
+In the past 7 days, Chills: {PHYS1B}.
+In the past 7 days, Runny or stuffy nose: {PHYS1C}.
+In the past 7 days, Chest congestion: {PHYS1D}.
+In the past 7 days, Skin rash: {PHYS1E}.
+In the past 7 days, Cough: {PHYS1F}.
+In the past 7 days, Sore throat: {PHYS1G}.
+In the past 7 days, Sneezing: {PHYS1H}.
+In the past 7 days, Muscle or body aches: {PHYS1I}.
+In the past 7 days, Headaches: {PHYS1J}.
+In the past 7 days, Fatigue or tiredness: {PHYS1K}.
+In the past 7 days, Shortness of breath: {PHYS1L}.
+In the past 7 days, Abdominal discomfort: {PHYS1M}.
+In the past 7 days, Nausea or vomiting: {PHYS1N}.
+In the past 7 days, Diarrhea: {PHYS1O}.
+In the past 7 days, Changed or lost sense of taste or smell: {PHYS1P}.
+In the past 7 days, Loss of appetite: {PHYS1Q}.
+In the past 7 days, you felt nervous, anxious, or on edge: {SOC5A}.
+In the past 7 days, you felt depressed: {SOC5B}.
+In the past 7 days, you felt lonely: {SOC5C}.
+In the past 7 days, you felt hopeless about the future: {SOC5D}.
+In the past 7 days, you had physical reactions (such as sweating, trouble breathing, nausea or a pounding heart) when thinking about the coronavirus pandemic: {SOC5E}.
+In the past 7 days, Felt hot or feverish: {PHYS7_1}.
+In the past 7 days, Felt chilly or had chills: {PHYS7_2}.
+In the past 7 days, Been sweating more than usual: {PHYS7_3}.
+In the past 7 days, Have not felt any of these: {PHYS7_4}.
+In the past 7 days, response recorded as DON'T KNOW for the above physical feelings: {PHYS7_DK}.
+In the past 7 days, response recorded as SKIPPED ON WEB for the above physical feelings: {PHYS7_SKP}.
+In the past 7 days, response recorded as REFUSED for the above physical feelings: {PHYS7_REF}.
+You can take your temperature now: {PHYS11}. Recorded temperature: {PHYS11_TEMP}.
+Current health coverage through employer or union: {PHYS9A}.
+Current health coverage purchased directly: {PHYS9B}.
+Current TRICARE or other military health care: {PHYS9C}.
+Current Medicaid/Medical Assistance/other government plan: {PHYS9D}.
+Current Medicare: {PHYS9E}.
+Currently enrolled for VA health care (Veterans Administration): {PHYS9F}.
+Current Indian Health Service coverage: {PHYS9G}.
+Other current health insurance or coverage: {PHYS9H}.
+Ever told by a provider you have Diabetes: {PHYS3A}.
+Ever told you have High blood pressure or hypertension: {PHYS3B}.
+Ever told you have Heart disease, heart attack or stroke: {PHYS3C}.
+Ever told you have Asthma: {PHYS3D}.
+Ever told you have Chronic lung disease or COPD: {PHYS3E}.
+Ever told you have Bronchitis or emphysema: {PHYS3F}.
+Ever told you have Allergies: {PHYS3G}.
+Ever told you have a mental health condition: {PHYS3H}.
+Ever told you have Cystic fibrosis: {PHYS3I}.
+Ever told you have Liver disease or end stage liver disease: {PHYS3J}.
+Ever told you have Cancer: {PHYS3K}.
+Ever told you have a compromised immune system: {PHYS3L}.
+Ever told you are Overweight or have obesity: {PHYS3M}.
+Ever told by a provider that you have COVID-19: {PHYS4}.
+Someone you live with ever told by a provider they have COVID-19: {PHYS5}.
+Family member or close friend died from COVID-19 or respiratory illness since March 1, 2020: {PHYS6}.
+Age (4-category): {AGE4}. Age (7-category): {AGE7}.
+Gender: {GENDER}.
+Race/ethnicity: {RACETH}. White/nonwhite: {RACE_R2}.
+Household income: {HHINCOME}.
+Highest education completed: {EDUCATION}. Education (4-category): {EDUC4}.
+Occupation: {P_OCCUPY2}. Marital status: {MARITAL}. LGBT status: {LGBT}.
+Household size (including children): {HHSIZE1}.
+Number of HH members age 0–1: {HH01S}. Age 2–5: {HH25S}. Age 6–12: {HH612S}. Age 13–17: {HH1317S}. Age 18+: {HH18OVS}.
+Census region (4-category): {REGION4}. Census region (9-category): {REGION9}.
+Population density: {P_DENSE}. Interview mode: {MODE}. Interview language: {LANGUAGE}.
+Date mail scanned at least 50% in region: {MAIL50}.
+Banner RACE1: {RACE1_BANNER}. Banner RACE2: {RACE2_BANNER}.
+Banner INCOME: {INC_BANNER}. Banner AGE: {AGE_BANNER}. Banner HH STRUCTURE: {HH_BANNER}.
+How many hours you worked last week at all jobs: {ECON2}.
+Main reason for not working for pay: {ECON4}.
+Prior to March 1, 2020, how many hours you usually worked each week: {ECON3}.
+Likelihood you will be employed in 30 days: {ECON4A}. In 3 months: {ECON4B}.
+Food worry in past 30 days (run out before money): {ECON5A_A}.
+Food didn’t last and no money to get more: {ECON5A_B}.
+

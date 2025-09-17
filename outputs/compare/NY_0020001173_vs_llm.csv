@@ -1,0 +1,71 @@
+Variable,Human_Answer,LLM_Answer,Match
+ECON1,"(3) No, I did not work for pay last week.","(3) No, I did not work for pay last week.",Y
+ECON6A,(4) Did not receive nor apply for any,(2) Applied for,N
+ECON6B,(4) Did not receive nor apply for any,(1) Received,N
+ECON6C,(4) Did not receive nor apply for any,(4) Did not receive nor apply for any,Y
+ECON6D,(4) Did not receive nor apply for any,(4) Did not receive nor apply for any,Y
+ECON6E,(4) Did not receive nor apply for any,(4) Did not receive nor apply for any,Y
+ECON6F,(4) Did not receive nor apply for any,(1) Received,N
+ECON6G,(4) Did not receive nor apply for any,(2) Applied for,N
+ECON6H,(4) Did not receive nor apply for any,(4) Did not receive nor apply for any,Y
+ECON6I,(4) Did not receive nor apply for any,(4) Did not receive nor apply for any,Y
+ECON6J,(4) Did not receive nor apply for any,(4) Did not receive nor apply for any,Y
+ECON6K,(4) Did not receive nor apply for any,(4) Did not receive nor apply for any,Y
+ECON6L,(4) Did not receive nor apply for any,(2) Applied for,N
+ECON7_1,(0) No,(0) No,Y
+ECON7_2,(1) Yes,0,N
+ECON7_3,(1) Yes,1,Y
+ECON7_4,(0) No,(0) No,Y
+ECON7_5,(0) No,1,N
+ECON7_6,(0) No,0,Y
+ECON7_7,(0) No,(0) No,Y
+ECON7_8,(0) No,(1) Yes,N
+ECON7_DK,(0) No,0,Y
+ECON7_REF,(0) No,0,Y
+ECON7_SKP,(0) No,0,Y
+ECON8A,(2) No,(1) Yes,N
+ECON8B,(2) No,(1) Yes,N
+ECON8C,(2) No,(2) No,Y
+ECON8D,(2) No,(1) Yes,N
+ECON8E,(2) No,(1) Yes,N
+ECON8F,(2) No,(1) Yes,N
+ECON8G,(2) No,(2) No,Y
+ECON8H,(2) No,(1) Yes,N
+ECON8I,(2) No,(1) Yes,N
+ECON8J,(2) No,(2) No,Y
+ECON8K,(2) No,(1) Yes,N
+ECON8L,(2) No,(1) Yes,N
+ECON8M,(2) No,(1) Yes,N
+ECON8N,(2) No,(1) Yes,N
+ECON8O,(2) No,(1) Yes,N
+ECON8P,(2) No,(1) Yes,N
+ECON8Q,(2) No,(1) Yes,N
+ECON8R,(2) No,(2) No,Y
+ECON8S,(2) No,(2) No,Y
+PHYS10A,(3) Moderately likely,(1) Extremely likely,N
+PHYS10B,(3) Moderately likely,(3) Moderately likely,Y
+PHYS10C,(4) Not too likely,(1) Extremely likely,N
+PHYS10D,(1) Extremely likely,(88) Already done this,N
+PHYS10E,(1) Extremely likely,(1) Extremely likely,Y
+PHYS2_1,(0) No,(1) Yes,N
+PHYS2_10,(0) No,(0) No,Y
+PHYS2_11,(1) Yes,1,Y
+PHYS2_12,(0) No,1,N
+PHYS2_13,(1) Yes,1,Y
+PHYS2_14,(0) No,1,N
+PHYS2_15,(1) Yes,1,Y
+PHYS2_16,(1) Yes,1,Y
+PHYS2_17,(1) Yes,1,Y
+PHYS2_18,(1) Yes,1,Y
+PHYS2_19,(0) No,0,Y
+PHYS2_2,(1) Yes,1,Y
+PHYS2_3,(0) No,(1) Yes,N
+PHYS2_4,(0) No,1,N
+PHYS2_5,(0) No,(1) Yes,N
+PHYS2_6,(0) No,1,N
+PHYS2_7,(0) No,1,N
+PHYS2_8,(1) Yes,1,Y
+PHYS2_9,(1) Yes,(0) No,N
+PHYS2_DK,(0) No,0,Y
+PHYS2_REF,(0) No,0,Y
+PHYS2_SKP,(0) No,0,Y

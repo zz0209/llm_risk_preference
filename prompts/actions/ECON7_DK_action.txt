@@ -1,0 +1,15 @@
+{
+  "Variable": "ECON7_DK",
+  "Variable Label": "[DON'T KNOW] Based on your current financial situation, how would you pay for this expense?",
+  "options": [
+    {
+      "Value": 0,
+      "Value Label": "(0) No"
+    },
+    {
+      "Value": 1,
+      "Value Label": "(1) Yes"
+    }
+  ],
+  "Category": "action"
+}

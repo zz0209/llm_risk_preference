@@ -1,0 +1,83 @@
+Your Geographic area is (8) New York.
+Generally speaking, you would trust (3) Some of the people in your neighborhood.
+In the past month, you talked with neighbors (4) Once a month.
+Prior to March 1, 2020, you talked with neighbors (3) A few times a month.
+In the past month, you communicated with friends and family (1) Basically every day.
+Prior to March 1, 2020, you communicated with friends and family (1) Basically every day.
+In the past month, you spent time volunteering: (2) No.
+Prior to March 1, 2020, you spent time volunteering: (2) No.
+Your general health is (1) Excellent.
+In the past 7 days, Fever: (2) No.
+In the past 7 days, Chills: (2) No.
+In the past 7 days, Runny or stuffy nose: (2) No.
+In the past 7 days, Chest congestion: (2) No.
+In the past 7 days, Skin rash: (2) No.
+In the past 7 days, Cough: (2) No.
+In the past 7 days, Sore throat: (2) No.
+In the past 7 days, Sneezing: (2) No.
+In the past 7 days, Muscle or body aches: (2) No.
+In the past 7 days, Headaches: (2) No.
+In the past 7 days, Fatigue or tiredness: (2) No.
+In the past 7 days, Shortness of breath: (2) No.
+In the past 7 days, Abdominal discomfort: (2) No.
+In the past 7 days, Nausea or vomiting: (2) No.
+In the past 7 days, Diarrhea: (2) No.
+In the past 7 days, Changed or lost sense of taste or smell: (2) No.
+In the past 7 days, Loss of appetite: (2) No.
+In the past 7 days, you felt nervous, anxious, or on edge: (1) Not at all or less than 1 day.
+In the past 7 days, you felt depressed: (1) Not at all or less than 1 day.
+In the past 7 days, you felt lonely: (1) Not at all or less than 1 day.
+In the past 7 days, you felt hopeless about the future: (1) Not at all or less than 1 day.
+In the past 7 days, you had physical reactions (such as sweating, trouble breathing, nausea or a pounding heart) when thinking about the coronavirus pandemic: (1) Not at all or less than 1 day.
+In the past 7 days, Felt hot or feverish: (0) No.
+In the past 7 days, Felt chilly or had chills: (0) No.
+In the past 7 days, Been sweating more than usual: (0) No.
+In the past 7 days, Have not felt any of these: (1) Yes.
+In the past 7 days, response recorded as DON'T KNOW for the above physical feelings: (0) No.
+In the past 7 days, response recorded as SKIPPED ON WEB for the above physical feelings: (0) No.
+In the past 7 days, response recorded as REFUSED for the above physical feelings: (0) No.
+You can take your temperature now: (98) SKIPPED ON WEB. Recorded temperature: NA.
+Current health coverage through employer or union: (98) SKIPPED ON WEB.
+Current health coverage purchased directly: (98) SKIPPED ON WEB.
+Current TRICARE or other military health care: (98) SKIPPED ON WEB.
+Current Medicaid/Medical Assistance/other government plan: (98) SKIPPED ON WEB.
+Current Medicare: (1) Yes.
+Currently enrolled for VA health care (Veterans Administration): (2) No.
+Current Indian Health Service coverage: (98) SKIPPED ON WEB.
+Other current health insurance or coverage: (1) Yes.
+Ever told by a provider you have Diabetes: (2) No.
+Ever told you have High blood pressure or hypertension: (2) No.
+Ever told you have Heart disease, heart attack or stroke: (2) No.
+Ever told you have Asthma: (2) No.
+Ever told you have Chronic lung disease or COPD: (2) No.
+Ever told you have Bronchitis or emphysema: (2) No.
+Ever told you have Allergies: (1) Yes.
+Ever told you have a mental health condition: (2) No.
+Ever told you have Cystic fibrosis: (2) No.
+Ever told you have Liver disease or end stage liver disease: (2) No.
+Ever told you have Cancer: (98) SKIPPED ON WEB.
+Ever told you have a compromised immune system: (2) No.
+Ever told you are Overweight or have obesity: (2) No.
+Ever told by a provider that you have COVID-19: (2) No.
+Someone you live with ever told by a provider they have COVID-19: (2) No.
+Family member or close friend died from COVID-19 or respiratory illness since March 1, 2020: (2) No.
+Age (4-category): (4) 60+. Age (7-category): (6) 65-74.
+Gender: (2) Female.
+Race/ethnicity: (1) White, non-Hispanic. White/nonwhite: (1) White non-Hispanic.
+Household income: $75,000 to under $100,000.
+Highest education completed: (5) Bachelors degree. Education (4-category): (4) BA or above.
+Occupation: NA. Marital status: NA. LGBT status: NA.
+Household size (including children): (1) One person, I live by myself.
+Number of HH members age 0–1: 0. Age 2–5: 0. Age 6–12: 0. Age 13–17: 0. Age 18+: 1.
+Census region (4-category): (1) Northeast. Census region (9-category): (2) Mid-Atlantic.
+Population density: (3) Urban. Interview mode: (2) Web Interview. Interview language: (1) English.
+Date mail scanned at least 50% in region: (3) 4/22/2020.
+Banner RACE1: (1) NH white 5. Banner RACE2: NA.
+Banner INCOME: (3) $60k to less than $125k. Banner AGE: (3) 65+. Banner HH STRUCTURE: (1) Alone.
+How many hours you worked last week at all jobs: NA.
+Main reason for not working for pay: (98) SKIPPED ON WEB.
+Prior to March 1, 2020, how many hours you usually worked each week: 50.
+Likelihood you will be employed in 30 days: (3) Moderately likely. In 3 months: (2) Very likely.
+Food worry in past 30 days (run out before money): (3) Never true.
+Food didn’t last and no money to get more: (3) Never true.
+

@@ -1,0 +1,15 @@
+{
+  "Variable": "PHYS2_7",
+  "Variable Label": "[Canceled outside housekeepers or caregivers] Which of the following measures, if any, are you taking in response to the coronavirus?",
+  "options": [
+    {
+      "Value": 0,
+      "Value Label": "(0) No"
+    },
+    {
+      "Value": 1,
+      "Value Label": "(1) Yes"
+    }
+  ],
+  "Category": "action"
+}

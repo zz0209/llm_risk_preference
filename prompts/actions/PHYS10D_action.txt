@@ -1,0 +1,43 @@
+{
+  "Variable": "PHYS10D",
+  "Variable Label": "[Testing you for COVID-19 infection using a q-tip to swab your cheek or nose] If these options were available to you, how likely would you be to participate in them?",
+  "options": [
+    {
+      "Value": 1,
+      "Value Label": "(1) Extremely likely"
+    },
+    {
+      "Value": 2,
+      "Value Label": "(2) Very likely"
+    },
+    {
+      "Value": 3,
+      "Value Label": "(3) Moderately likely"
+    },
+    {
+      "Value": 4,
+      "Value Label": "(4) Not too likely"
+    },
+    {
+      "Value": 5,
+      "Value Label": "(5) Not likely at all"
+    },
+    {
+      "Value": 77,
+      "Value Label": "(77) DON'T KNOW"
+    },
+    {
+      "Value": 88,
+      "Value Label": "(88) Already done this"
+    },
+    {
+      "Value": 98,
+      "Value Label": "(98) SKIPPED ON WEB"
+    },
+    {
+      "Value": 99,
+      "Value Label": "(99) REFUSED"
+    }
+  ],
+  "Category": "action"
+}

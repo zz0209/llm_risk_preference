@@ -1,0 +1,103 @@
+# ---- Python ----
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+
+# Virtualenvs
+venv/
+.venv/
+env/
+ENV/
+
+# Packaging
+build/
+dist/
+downloads/
+eggs/
+.eggs/
+parts/
+sdist/
+var/
+*.egg-info/
+.installed.cfg
+*.egg
+pip-wheel-metadata/
+
+# Testing/coverage
+.pytest_cache/
+.coverage
+.coverage.*
+coverage.xml
+*.cover
+nosetests.xml
+.hypothesis/
+
+# Type checkers
+.pyre/
+mypy_cache/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Logs
+logs/
+*.log
+
+# OS / Editors
+.DS_Store
+.idea/
+.vscode/
+
+# ---- Project-specific ----
+# Root-level large/private datasets
+/data/
+/COVID-19/
+/survey/
+
+# Local virtual environment in repo
+/preference/
+
+# ---- Secrets / Credentials ----
+# Common env files
+.env
+.env.*
+*.env
+.envrc
+.envrc.local
+.env.local
+.env.secret
+.env.secrets
+
+# Keys and certificates
+*.pem
+*.key
+*.crt
+*.p12
+*.pfx
+*.der
+*.jks
+*.keystore
+*.p8
+id_rsa
+id_rsa.pub
+id_ed25519
+id_ed25519.pub
+
+# Generic secret filenames
+secrets.*
+secret.*
+credentials.*
+*.credentials
+*.token
+*token*
+*secret*
+*api_key*
+*apikey*
+
+# Swap/backup
+*.swp
+*.swo
+*.bak
+

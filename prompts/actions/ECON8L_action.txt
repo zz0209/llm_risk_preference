@@ -1,0 +1,27 @@
+{
+  "Variable": "ECON8L",
+  "Variable Label": "[Closure of gyms or fitness facilities] In the past 7 days, have your personal plans been changed or affected by the following types of restrictions, or not?",
+  "options": [
+    {
+      "Value": 1,
+      "Value Label": "(1) Yes"
+    },
+    {
+      "Value": 2,
+      "Value Label": "(2) No"
+    },
+    {
+      "Value": 77,
+      "Value Label": "(77) Not sure"
+    },
+    {
+      "Value": 98,
+      "Value Label": "(98) SKIPPED ON WEB"
+    },
+    {
+      "Value": 99,
+      "Value Label": "(99) REFUSED"
+    }
+  ],
+  "Category": "action"
+}

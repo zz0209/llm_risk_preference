@@ -1,0 +1,35 @@
+{
+  "Variable": "ECON6K",
+  "Variable Label": "[A food pantry] In the past 7 days, have you either received, applied for, or tried to apply for any of the following forms of income or assistance, or not?",
+  "options": [
+    {
+      "Value": 1,
+      "Value Label": "(1) Received"
+    },
+    {
+      "Value": 2,
+      "Value Label": "(2) Applied for"
+    },
+    {
+      "Value": 3,
+      "Value Label": "(3) Tried to apply for"
+    },
+    {
+      "Value": 4,
+      "Value Label": "(4) Did not receive nor apply for any"
+    },
+    {
+      "Value": 77,
+      "Value Label": "(77) DON'T KNOW"
+    },
+    {
+      "Value": 98,
+      "Value Label": "(98) SKIPPED ON WEB"
+    },
+    {
+      "Value": 99,
+      "Value Label": "(99) REFUSED"
+    }
+  ],
+  "Category": "action"
+}
