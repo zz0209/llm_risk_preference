@@ -1,0 +1,39 @@
+{
+  "Variable": "SOC2A",
+  "Variable Label": "In the past month, how often did you talk with any of your neighbors?",
+  "options": [
+    {
+      "Value": 1,
+      "Value Label": "(1) Basically every day"
+    },
+    {
+      "Value": 2,
+      "Value Label": "(2) A few times a week"
+    },
+    {
+      "Value": 3,
+      "Value Label": "(3) A few times a month"
+    },
+    {
+      "Value": 4,
+      "Value Label": "(4) Once a month"
+    },
+    {
+      "Value": 5,
+      "Value Label": "(5) Not at all"
+    },
+    {
+      "Value": 77,
+      "Value Label": "(77) Not sure"
+    },
+    {
+      "Value": 98,
+      "Value Label": "(98) SKIPPED ON WEB"
+    },
+    {
+      "Value": 99,
+      "Value Label": "(99) REFUSED"
+    }
+  ],
+  "Category": "action"
+}

@@ -1,10 +1,5 @@
 Your Geographic area is (10) Texas.
 Generally speaking, you would trust (3) Some of the people in your neighborhood.
-In the past month, you talked with neighbors (5) Not at all.
-Prior to March 1, 2020, you talked with neighbors (5) Not at all.
-In the past month, you communicated with friends and family (1) Basically every day.
-Prior to March 1, 2020, you communicated with friends and family (3) A few times a month.
-In the past month, you spent time volunteering: (2) No.
 Prior to March 1, 2020, you spent time volunteering: (2) No.
 Your general health is (4) Fair.
 In the past 7 days, Fever: (2) No.
@@ -74,8 +69,6 @@ Population density: (2) Suburban. Interview mode: (2) Web Interview. Interview l
 Date mail scanned at least 50% in region: (2) 4/21/2020.
 Banner RACE1: (1) NH white 5. Banner RACE2: NA.
 Banner INCOME: (2) $30k to less than $60k. Banner AGE: (2) 23-64. Banner HH STRUCTURE: (1) Alone.
-How many hours you worked last week at all jobs: NA.
-Main reason for not working for pay: (2) I am retired.
 Prior to March 1, 2020, how many hours you usually worked each week: 0.
 Likelihood you will be employed in 30 days: (5) Not likely at all. In 3 months: (5) Not likely at all.
 Food worry in past 30 days (run out before money): (2) Sometimes true.

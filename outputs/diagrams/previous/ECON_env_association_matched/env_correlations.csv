@@ -1,0 +1,13 @@
+metric,target,pearson_r
+avg_new_cases,econ2_mean_human,
+avg_new_cases,econ2_mean_llm,0.8964351295800669
+avg_new_cases,econ1_rate_human,-0.9703489803325674
+avg_new_cases,econ1_rate_llm,0.3220290296448914
+avg_new_deaths,econ2_mean_human,
+avg_new_deaths,econ2_mean_llm,0.8932573649614002
+avg_new_deaths,econ1_rate_human,-0.9159505305418453
+avg_new_deaths,econ1_rate_llm,0.2975245858548572
+avg_hospitalized,econ2_mean_human,
+avg_hospitalized,econ2_mean_llm,0.7280597728232051
+avg_hospitalized,econ1_rate_human,-0.8912574895595874
+avg_hospitalized,econ1_rate_llm,0.14090428957790854

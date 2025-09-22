@@ -1,0 +1,163 @@
+Your persona is described as follows:
+Your Geographic area is (8) New York.
+Generally speaking, you would trust (3) Some of the people in your neighborhood.
+Prior to March 1, 2020, you spent time volunteering: (2) No.
+Your general health is (3) Good.
+In the past 7 days, Fever: (2) No.
+In the past 7 days, Chills: (2) No.
+In the past 7 days, Runny or stuffy nose: (2) No.
+In the past 7 days, Chest congestion: (2) No.
+In the past 7 days, Skin rash: (2) No.
+In the past 7 days, Cough: (2) No.
+In the past 7 days, Sore throat: (2) No.
+In the past 7 days, Sneezing: (2) No.
+In the past 7 days, Muscle or body aches: (2) No.
+In the past 7 days, Headaches: (2) No.
+In the past 7 days, Fatigue or tiredness: (2) No.
+In the past 7 days, Shortness of breath: (2) No.
+In the past 7 days, Abdominal discomfort: (2) No.
+In the past 7 days, Nausea or vomiting: (2) No.
+In the past 7 days, Diarrhea: (2) No.
+In the past 7 days, Changed or lost sense of taste or smell: (2) No.
+In the past 7 days, Loss of appetite: (2) No.
+In the past 7 days, you felt nervous, anxious, or on edge: (1) Not at all or less than 1 day.
+In the past 7 days, you felt depressed: (1) Not at all or less than 1 day.
+In the past 7 days, you felt lonely: (1) Not at all or less than 1 day.
+In the past 7 days, you felt hopeless about the future: (1) Not at all or less than 1 day.
+In the past 7 days, you had physical reactions (such as sweating, trouble breathing, nausea or a pounding heart) when thinking about the coronavirus pandemic: (1) Not at all or less than 1 day.
+In the past 7 days, Felt hot or feverish: (0) No.
+In the past 7 days, Felt chilly or had chills: (0) No.
+In the past 7 days, Been sweating more than usual: (0) No.
+In the past 7 days, Have not felt any of these: (1) Yes.
+In the past 7 days, response recorded as DON'T KNOW for the above physical feelings: (0) No.
+In the past 7 days, response recorded as SKIPPED ON WEB for the above physical feelings: (0) No.
+In the past 7 days, response recorded as REFUSED for the above physical feelings: (0) No.
+You can take your temperature now: (2) No. Recorded temperature: NA.
+Current health coverage through employer or union: (1) Yes.
+Current health coverage purchased directly: (2) No.
+Current TRICARE or other military health care: (2) No.
+Current Medicaid/Medical Assistance/other government plan: (2) No.
+Current Medicare: (2) No.
+Currently enrolled for VA health care (Veterans Administration): (2) No.
+Current Indian Health Service coverage: (2) No.
+Other current health insurance or coverage: (2) No.
+Ever told by a provider you have Diabetes: (2) No.
+Ever told you have High blood pressure or hypertension: (1) Yes.
+Ever told you have Heart disease, heart attack or stroke: (2) No.
+Ever told you have Asthma: (2) No.
+Ever told you have Chronic lung disease or COPD: (2) No.
+Ever told you have Bronchitis or emphysema: (2) No.
+Ever told you have Allergies: (2) No.
+Ever told you have a mental health condition: (2) No.
+Ever told you have Cystic fibrosis: (2) No.
+Ever told you have Liver disease or end stage liver disease: (2) No.
+Ever told you have Cancer: (2) No.
+Ever told you have a compromised immune system: (2) No.
+Ever told you are Overweight or have obesity: (1) Yes.
+Ever told by a provider that you have COVID-19: (2) No.
+Someone you live with ever told by a provider they have COVID-19: (2) No.
+Family member or close friend died from COVID-19 or respiratory illness since March 1, 2020: (1) Yes.
+Age (4-category): (4) 60+. Age (7-category): (5) 55-64.
+Gender: (1) Male.
+Race/ethnicity: (1) White, non-Hispanic. White/nonwhite: (1) White non-Hispanic.
+Household income: $30,000 to under $40,000.
+Highest education completed: (5) Bachelors degree. Education (4-category): (4) BA or above.
+Occupation: NA. Marital status: NA. LGBT status: NA.
+Household size (including children): (2) Two persons.
+Number of HH members age 0–1: 0. Age 2–5: 0. Age 6–12: 0. Age 13–17: 0. Age 18+: 2.
+Census region (4-category): (1) Northeast. Census region (9-category): (2) Mid-Atlantic.
+Population density: (2) Suburban. Interview mode: (2) Web Interview. Interview language: (1) English.
+Banner RACE1: (1) NH white 5. Banner RACE2: NA.
+Banner INCOME: (2) $30k to less than $60k. Banner AGE: (2) 23-64. Banner HH STRUCTURE: (2) +1 other adult only.
+Prior to March 1, 2020, how many hours you usually worked each week: 40.
+Likelihood you will be employed in 30 days: (3) Moderately likely. In 3 months: (2) Very likely.
+Food worry in past 30 days (run out before money): (3) Never true.
+Food didn’t last and no money to get more: (3) Never true.
+
+Here is a summary of last week's pandemic snapshot:
+Context for New York covering 9 days prior to 2020-05-04 (inclusive).
+
+State: New York
+2020-04-26: Confirmed=288045, Deaths=22200, Active=241958.0, CFR=nan, Total_Test_Results=805350.0, People_Tested=805350.0, People_Hospitalized=57103.0
+2020-04-27: Confirmed=291996, Deaths=22574, Active=245535.0, CFR=nan, Total_Test_Results=826095.0, People_Tested=826095.0, People_Hospitalized=57103.0
+2020-04-28: Confirmed=295106, Deaths=22823, Active=220653.0, CFR=nan, Total_Test_Results=844994.0, People_Tested=844994.0, People_Hospitalized=64275.0
+2020-04-29: Confirmed=299691, Deaths=23375, Active=223078.0, CFR=nan, Total_Test_Results=872481.0, People_Tested=872481.0, People_Hospitalized=65397.0
+2020-04-30: Confirmed=304372, Deaths=23479, Active=226122.0, CFR=nan, Total_Test_Results=900636.0, People_Tested=900636.0, People_Hospitalized=66369.0
+2020-05-01: Confirmed=308314, Deaths=23928, Active=228199.0, CFR=nan, Total_Test_Results=927438.0, People_Tested=927438.0, People_Hospitalized=67180.0
+2020-05-02: Confirmed=312977, Deaths=24090, Active=231347.0, CFR=nan, Total_Test_Results=959017.0, People_Tested=959071.0, People_Hospitalized=67890.0
+2020-05-03: Confirmed=316415, Deaths=24602, Active=232863.0, CFR=nan, Total_Test_Results=985911.0, People_Tested=985911.0, People_Hospitalized=68736.0
+2020-05-04: Confirmed=318953, Deaths=24879, Active=235124.0, CFR=nan, Total_Test_Results=1007310.0, People_Tested=1007310.0, People_Hospitalized=69331.0
+
+US Aggregate
+2020-04-26: Confirmed=964618, Deaths=55910, Active=366974.0, CFR=5.796076788946506, Total_Test_Results=1748847.0, People_Tested=5712128.0, People_Hospitalized=126647.0
+2020-04-27: Confirmed=988193, Deaths=57311, Active=372835.0, CFR=5.799575588979076, Total_Test_Results=1805998.0, People_Tested=5874884.0, People_Hospitalized=128673.0
+2020-04-28: Confirmed=1012728, Deaths=59399, Active=445078.0, CFR=5.865247134472435, Total_Test_Results=1867340.0, People_Tested=6108873.0, People_Hospitalized=106265.0
+2020-04-29: Confirmed=1040605, Deaths=61863, Active=465366.0, CFR=5.944907049264611, Total_Test_Results=1941323.0, People_Tested=6361233.0, People_Hospitalized=109690.0
+2020-04-30: Confirmed=1070371, Deaths=63758, Active=848481.0, CFR=5.956626253887671, Total_Test_Results=2023401.0, People_Tested=6580080.0, People_Hospitalized=111955.0
+2020-05-01: Confirmed=1104488, Deaths=65695, Active=870628.0, CFR=5.94800486741368, Total_Test_Results=2102867.0, People_Tested=6909199.0, People_Hospitalized=121748.0
+2020-05-02: Confirmed=1132671, Deaths=67316, Active=885983.0, CFR=5.943120288239038, Total_Test_Results=2180129.0, People_Tested=7182592.0, People_Hospitalized=123860.0
+2020-05-03: Confirmed=1157203, Deaths=68704, Active=904522.0, CFR=5.937074134788797, Total_Test_Results=2241208.0, People_Tested=7421187.0, People_Hospitalized=125796.0
+2020-05-04: Confirmed=1179602, Deaths=69974, Active=918380.0, CFR=5.932000793487973, Total_Test_Results=2306032.0, People_Tested=7647978.0, People_Hospitalized=127397.0
+
+You need to do this survey question:
+{
+  "Variable": "ECON4",
+  "Variable Label": "What was your main reason for not working for pay?",
+  "options": [
+    {
+      "Value": 1,
+      "Value Label": "(1) I do not want to be employed at this time"
+    },
+    {
+      "Value": 2,
+      "Value Label": "(2) I am retired"
+    },
+    {
+      "Value": 3,
+      "Value Label": "(3) I was laid-off temporarily or furloughed"
+    },
+    {
+      "Value": 4,
+      "Value Label": "(4) I was not at my usual jobs because I was caring for chil"
+    },
+    {
+      "Value": 5,
+      "Value Label": "(5) I was not at my usual jobs because I was caring for an e"
+    },
+    {
+      "Value": 6,
+      "Value Label": "(6) I was not at my usual jobs because I was caring for some"
+    },
+    {
+      "Value": 7,
+      "Value Label": "(7) I was not at my usual jobs because I was recovering from"
+    },
+    {
+      "Value": 8,
+      "Value Label": "(8) I was unemployed but looking for work since before March"
+    },
+    {
+      "Value": 9,
+      "Value Label": "(9) I was unemployed and began looking for work after March"
+    },
+    {
+      "Value": 77,
+      "Value Label": "(77) DON'T KNOW"
+    },
+    {
+      "Value": 98,
+      "Value Label": "(98) SKIPPED ON WEB"
+    },
+    {
+      "Value": 99,
+      "Value Label": "(99) REFUSED"
+    }
+  ],
+  "Category": "action",
+  "Condition": {
+    "depends_on": "ECON1",
+    "equals": 3
+  }
+}
+
+Answer option(s) as specified, with no explanation or anything else.

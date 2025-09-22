@@ -1,10 +1,5 @@
 Your Geographic area is {P_GEO}.
 Generally speaking, you would trust {SOC1} of the people in your neighborhood.
-In the past month, you talked with neighbors {SOC2A}.
-Prior to March 1, 2020, you talked with neighbors {SOC2B}.
-In the past month, you communicated with friends and family {SOC3A}.
-Prior to March 1, 2020, you communicated with friends and family {SOC3B}.
-In the past month, you spent time volunteering: {SOC4A}.
 Prior to March 1, 2020, you spent time volunteering: {SOC4B}.
 Your general health is {PHYS8}.
 In the past 7 days, Fever: {PHYS1A}.
@@ -71,11 +66,8 @@ Household size (including children): {HHSIZE1}.
 Number of HH members age 0–1: {HH01S}. Age 2–5: {HH25S}. Age 6–12: {HH612S}. Age 13–17: {HH1317S}. Age 18+: {HH18OVS}.
 Census region (4-category): {REGION4}. Census region (9-category): {REGION9}.
 Population density: {P_DENSE}. Interview mode: {MODE}. Interview language: {LANGUAGE}.
-Date mail scanned at least 50% in region: {MAIL50}.
 Banner RACE1: {RACE1_BANNER}. Banner RACE2: {RACE2_BANNER}.
 Banner INCOME: {INC_BANNER}. Banner AGE: {AGE_BANNER}. Banner HH STRUCTURE: {HH_BANNER}.
-How many hours you worked last week at all jobs: {ECON2}.
-Main reason for not working for pay: {ECON4}.
 Prior to March 1, 2020, how many hours you usually worked each week: {ECON3}.
 Likelihood you will be employed in 30 days: {ECON4A}. In 3 months: {ECON4B}.
 Food worry in past 30 days (run out before money): {ECON5A_A}.

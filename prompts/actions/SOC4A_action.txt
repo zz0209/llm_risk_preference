@@ -1,0 +1,27 @@
+{
+  "Variable": "SOC4A",
+  "Variable Label": "In the past month, did you spend any time volunteering for any organization or association, or not?",
+  "options": [
+    {
+      "Value": 1,
+      "Value Label": "(1) Yes"
+    },
+    {
+      "Value": 2,
+      "Value Label": "(2) No"
+    },
+    {
+      "Value": 77,
+      "Value Label": "(77) Not sure"
+    },
+    {
+      "Value": 98,
+      "Value Label": "(98) SKIPPED ON WEB"
+    },
+    {
+      "Value": 99,
+      "Value Label": "(99) REFUSED"
+    }
+  ],
+  "Category": "action"
+}

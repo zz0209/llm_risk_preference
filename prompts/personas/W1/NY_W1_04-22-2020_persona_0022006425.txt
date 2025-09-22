@@ -1,10 +1,5 @@
 Your Geographic area is (8) New York.
 Generally speaking, you would trust (4) None of the people in your neighborhood.
-In the past month, you talked with neighbors (2) A few times a week.
-Prior to March 1, 2020, you talked with neighbors (2) A few times a week.
-In the past month, you communicated with friends and family (1) Basically every day.
-Prior to March 1, 2020, you communicated with friends and family (2) A few times a week.
-In the past month, you spent time volunteering: (2) No.
 Prior to March 1, 2020, you spent time volunteering: (1) Yes.
 Your general health is (2) Very good.
 In the past 7 days, Fever: (2) No.
@@ -74,8 +69,6 @@ Population density: (2) Suburban. Interview mode: (2) Web Interview. Interview l
 Date mail scanned at least 50% in region: (3) 4/22/2020.
 Banner RACE1: (1) NH white 5. Banner RACE2: NA.
 Banner INCOME: (3) $60k to less than $125k. Banner AGE: (2) 23-64. Banner HH STRUCTURE: (2) +1 other adult only.
-How many hours you worked last week at all jobs: NA.
-Main reason for not working for pay: (3) I was laid-off temporarily or furloughed.
 Prior to March 1, 2020, how many hours you usually worked each week: 4.
 Likelihood you will be employed in 30 days: (5) Not likely at all. In 3 months: (3) Moderately likely.
 Food worry in past 30 days (run out before money): (3) Never true.

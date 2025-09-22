@@ -1,0 +1,59 @@
+{
+  "Variable": "ECON4",
+  "Variable Label": "What was your main reason for not working for pay?",
+  "options": [
+    {
+      "Value": 1,
+      "Value Label": "(1) I do not want to be employed at this time"
+    },
+    {
+      "Value": 2,
+      "Value Label": "(2) I am retired"
+    },
+    {
+      "Value": 3,
+      "Value Label": "(3) I was laid-off temporarily or furloughed"
+    },
+    {
+      "Value": 4,
+      "Value Label": "(4) I was not at my usual jobs because I was caring for chil"
+    },
+    {
+      "Value": 5,
+      "Value Label": "(5) I was not at my usual jobs because I was caring for an e"
+    },
+    {
+      "Value": 6,
+      "Value Label": "(6) I was not at my usual jobs because I was caring for some"
+    },
+    {
+      "Value": 7,
+      "Value Label": "(7) I was not at my usual jobs because I was recovering from"
+    },
+    {
+      "Value": 8,
+      "Value Label": "(8) I was unemployed but looking for work since before March"
+    },
+    {
+      "Value": 9,
+      "Value Label": "(9) I was unemployed and began looking for work after March"
+    },
+    {
+      "Value": 77,
+      "Value Label": "(77) DON'T KNOW"
+    },
+    {
+      "Value": 98,
+      "Value Label": "(98) SKIPPED ON WEB"
+    },
+    {
+      "Value": 99,
+      "Value Label": "(99) REFUSED"
+    }
+  ],
+  "Category": "action",
+  "Condition": {
+    "depends_on": "ECON1",
+    "equals": 3
+  }
+}

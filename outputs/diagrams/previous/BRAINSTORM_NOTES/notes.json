@@ -1,0 +1,11 @@
+{
+  "ideas": [
+    "Quantile comparison for ECON2 (QQ plots) to inspect tail behavior.",
+    "Conditional distributions of ECON2 by persona segments (e.g., PHYS8 health status).",
+    "Robustness: sensitivity of ECON2 to env windows (shift by +/-2 days).",
+    "Bootstrap CIs for distribution distances (KS/Wasserstein).",
+    "Propensity to report any hours (ECON1==1) vs env severity (rate differences across states/weeks).",
+    "Heterogeneity: compare NY vs TX separately across weeks for LLM vs Human gaps.",
+    "Outlier analysis on ECON2 (e.g., >100 hours) shares, LLM vs Human."
+  ]
+}

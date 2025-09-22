@@ -1,0 +1,23 @@
+{
+  "Variable": "ECON2",
+  "Variable Label": "How many hours did you work last week at all jobs?",
+  "options": [
+    {
+      "Value": 777,
+      "Value Label": "(777) DON'T KNOW"
+    },
+    {
+      "Value": 998,
+      "Value Label": "(998) SKIPPED ON WEB"
+    },
+    {
+      "Value": 999,
+      "Value Label": "(999) REFUSED"
+    }
+  ],
+  "Category": "action",
+  "Condition": {
+    "depends_on": "ECON1",
+    "equals": 1
+  }
+}

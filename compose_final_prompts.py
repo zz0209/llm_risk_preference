@@ -15,14 +15,20 @@ def write_text(path: str, content: str) -> None:
 
 
 def parse_persona_filename(filename: str):
-    # Expect: {STATE}_W1_{MAIL50}_persona_{SU_ID}.txt
+    # Support both formats:
+    # 1) {STATE}_W{week}_{MAIL50}_persona_{SU_ID}.txt
+    # 2) {STATE}_W{week}_persona_{SU_ID}.txt
     name, _ = os.path.splitext(filename)
     parts = name.split("_")
-    if len(parts) < 5:
-        return None
-    state = parts[0]
-    su_id = parts[-1]
-    return state, su_id
+    if len(parts) >= 5 and parts[-3] == "persona":
+        state = parts[0]
+        su_id = parts[-1]
+        return state, su_id
+    if len(parts) >= 4 and parts[-3] == "persona":
+        state = parts[0]
+        su_id = parts[-1]
+        return state, su_id
+    return None
 
 
 def collect_personas(persona_dir: str) -> List[Dict[str, str]]:
