@@ -1,0 +1,156 @@
+{
+  "title": "Stratification rationales for AGE7, P_DENSE, HHINCOME, EDUCATION",
+  "factor_order": ["AGE7", "P_DENSE", "HHINCOME", "EDUCATION"],
+  "factors": {
+    "AGE7": {
+      "salience": 0.85,
+      "options": [
+        {
+          "code": 1,
+          "label": "18–24",
+          "rationale": "Lower expected severity and high income/work-entry pressures raise willingness to accept workplace exposure relative to perceived infection costs."
+        },
+        {
+          "code": 2,
+          "label": "25–34",
+          "rationale": "Early-career income needs and forming households make steady work salient while moderate clinical risk requires mitigation rather than abstention."
+        },
+        {
+          "code": 3,
+          "label": "35–44",
+          "rationale": "Mid-career obligations and child/elder care increase perceived external costs of bringing infection home, reducing tolerance for on-site exposure."
+        },
+        {
+          "code": 4,
+          "label": "45–54",
+          "rationale": "Rising severity risk and accumulated career capital increase caution, preferring remote or well-controlled settings before working in person."
+        },
+        {
+          "code": 5,
+          "label": "55–64",
+          "rationale": "Elevated risk of severe outcomes increases expected loss from infection, lowering acceptance of high-contact roles without strong safeguards."
+        },
+        {
+          "code": 6,
+          "label": "65–74",
+          "rationale": "Substantially higher vulnerability makes even brief on-site interactions risky unless benefits are exceptional and controls stringent."
+        },
+        {
+          "code": 7,
+          "label": "75+",
+          "rationale": "Very high clinical risk makes avoiding workplace exposure dominant, so only essential tasks with tight controls are considered."
+        }
+      ]
+    },
+    "P_DENSE": {
+      "salience": 0.7,
+      "options": [
+        {
+          "code": 1,
+          "label": "Rural",
+          "rationale": "Lower baseline contact rates reduce exposure, but longer travel and limited healthcare capacity increase perceived downside if infected, moderating work decisions."
+        },
+        {
+          "code": 2,
+          "label": "Suburban",
+          "rationale": "Moderate density and car-oriented mobility produce intermediate exposure, making workplace controls and household spillover the pivotal factors."
+        },
+        {
+          "code": 3,
+          "label": "Urban",
+          "rationale": "High density and transit elevate baseline exposure, pushing decisions toward remote work or strong mitigation to justify on-site presence."
+        }
+      ]
+    },
+    "HHINCOME": {
+      "salience": 0.6,
+      "options": [
+        {
+          "code": 1,
+          "label": "Under $10,000",
+          "rationale": "Severe liquidity constraints and low buffers increase willingness to accept exposure to maintain income despite high downside risk."
+        },
+        {
+          "code": 2,
+          "label": "$10,000 to under $20,000",
+          "rationale": "High marginal value of wages and scarce benefits push on-site work acceptance unless risk becomes extreme or support is available."
+        },
+        {
+          "code": 3,
+          "label": "$20,000 to under $30,000",
+          "rationale": "Persistent financial pressure sustains on-site work incentives while limited flexibility permits only partial risk avoidance."
+        },
+        {
+          "code": 4,
+          "label": "$30,000 to under $40,000",
+          "rationale": "Growing but thin cushions enable selective avoidance of highest-risk tasks when controls are weak, balancing income and safety."
+        },
+        {
+          "code": 5,
+          "label": "$40,000 to under $50,000",
+          "rationale": "Improved capacity to absorb short-term income losses increases preference for lower-contact roles or remote arrangements."
+        },
+        {
+          "code": 6,
+          "label": "$50,000 to under $75,000",
+          "rationale": "Better savings and benefits reduce the need to accept exposure, shifting choices toward safer scheduling and environments."
+        },
+        {
+          "code": 7,
+          "label": "$75,000 to under $100,000",
+          "rationale": "Greater job flexibility and bargaining power make declining high-contact roles feasible without major financial harm."
+        },
+        {
+          "code": 8,
+          "label": "$100,000 to under $150,000",
+          "rationale": "Substantial financial buffers and flexible jobs support strong avoidance of risky contexts unless productivity truly requires limited exposure."
+        },
+        {
+          "code": 9,
+          "label": "$150,000 or more",
+          "rationale": "Abundant flexibility and security render on-site exposure largely discretionary, favoring remote work and stringent safeguards."
+        }
+      ]
+    },
+    "EDUCATION": {
+      "salience": 0.55,
+      "options": [
+        {
+          "code": 1,
+          "label": "No HS diploma",
+          "rationale": "Limited access to remote-capable jobs and fewer protections increase likelihood of accepting exposure to retain employment."
+        },
+        {
+          "code": 2,
+          "label": "HS graduate or equivalent",
+          "rationale": "Broader options and basic health literacy aid mitigation, but many roles still require in-person work, sustaining exposure."
+        },
+        {
+          "code": 3,
+          "label": "Some college, no degree",
+          "rationale": "Expanding skills and information access improve risk evaluation and negotiation of safer schedules or tasks."
+        },
+        {
+          "code": 4,
+          "label": "Associate degree",
+          "rationale": "Credentials open mixed-contact occupations, enabling substitution toward lower-exposure duties when risk rises."
+        },
+        {
+          "code": 5,
+          "label": "Bachelors degree",
+          "rationale": "Professional roles often permit remote work and paid leave, decreasing necessity to accept infection risk for income continuity."
+        },
+        {
+          "code": 6,
+          "label": "Masters degree",
+          "rationale": "High-skill employment increases autonomy to avoid high-contact settings and to insist on stronger workplace controls."
+        },
+        {
+          "code": 7,
+          "label": "Professional or Doctorate degree",
+          "rationale": "Maximum job control and benefits make exposure largely elective, prioritizing safety over on-site presence."
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,102 @@
+Your persona is described as follows:
+Your Geographic area is (8) New York.
+Generally speaking, you would trust (2) Most of the people in your neighborhood.
+Prior to March 1, 2020, you spent time volunteering: (2) No.
+Your general health is (5) Poor.
+In the past 7 days, Fever: (1) Yes.
+In the past 7 days, Chills: (1) Yes.
+In the past 7 days, Runny or stuffy nose: (1) Yes.
+In the past 7 days, Chest congestion: (2) No.
+In the past 7 days, Skin rash: (2) No.
+In the past 7 days, Cough: (2) No.
+In the past 7 days, Sore throat: (2) No.
+In the past 7 days, Sneezing: (1) Yes.
+In the past 7 days, Muscle or body aches: (1) Yes.
+In the past 7 days, Headaches: (1) Yes.
+In the past 7 days, Fatigue or tiredness: (2) No.
+In the past 7 days, Shortness of breath: (1) Yes.
+In the past 7 days, Abdominal discomfort: (1) Yes.
+In the past 7 days, Nausea or vomiting: (1) Yes.
+In the past 7 days, Diarrhea: (2) No.
+In the past 7 days, Changed or lost sense of taste or smell: (2) No.
+In the past 7 days, Loss of appetite: (2) No.
+In the past 7 days, you felt nervous, anxious, or on edge: (2) 1-2 days.
+In the past 7 days, you felt depressed: (2) 1-2 days.
+In the past 7 days, you felt lonely: (3) 3-4 days.
+In the past 7 days, you felt hopeless about the future: (2) 1-2 days.
+In the past 7 days, you had physical reactions (such as sweating, trouble breathing, nausea or a pounding heart) when thinking about the coronavirus pandemic: (4) 5-7 days.
+In the past 7 days, Felt hot or feverish: (0) No.
+In the past 7 days, Felt chilly or had chills: (0) No.
+In the past 7 days, Been sweating more than usual: (0) No.
+In the past 7 days, Have not felt any of these: (1) Yes.
+In the past 7 days, response recorded as DON'T KNOW for the above physical feelings: (0) No.
+In the past 7 days, response recorded as SKIPPED ON WEB for the above physical feelings: (0) No.
+In the past 7 days, response recorded as REFUSED for the above physical feelings: (0) No.
+You can take your temperature now: (2) No. Recorded temperature: NA.
+Current health coverage through employer or union: (2) No.
+Current health coverage purchased directly: (1) Yes.
+Current TRICARE or other military health care: (2) No.
+Current Medicaid/Medical Assistance/other government plan: (1) Yes.
+Current Medicare: (1) Yes.
+Currently enrolled for VA health care (Veterans Administration): (2) No.
+Current Indian Health Service coverage: (2) No.
+Other current health insurance or coverage: (1) Yes.
+Ever told by a provider you have Diabetes: (2) No.
+Ever told you have High blood pressure or hypertension: (2) No.
+Ever told you have Heart disease, heart attack or stroke: (1) Yes.
+Ever told you have Asthma: (2) No.
+Ever told you have Chronic lung disease or COPD: (1) Yes.
+Ever told you have Bronchitis or emphysema: (1) Yes.
+Ever told you have Allergies: (1) Yes.
+Ever told you have a mental health condition: (2) No.
+Ever told you have Cystic fibrosis: (2) No.
+Ever told you have Liver disease or end stage liver disease: (2) No.
+Ever told you have Cancer: (2) No.
+Ever told you have a compromised immune system: (2) No.
+Ever told you are Overweight or have obesity: (2) No.
+Ever told by a provider that you have COVID-19: (2) No.
+Someone you live with ever told by a provider they have COVID-19: (98) SKIPPED ON WEB.
+Family member or close friend died from COVID-19 or respiratory illness since March 1, 2020: (2) No.
+Age (4-category): (4) 60+. Age (7-category): (6) 65-74.
+Gender: (1) Male.
+Race/ethnicity: (1) White, non-Hispanic. White/nonwhite: (1) White non-Hispanic.
+Household income: $20,000 to under $30,000.
+Highest education completed: (3) Some college, no degree. Education (4-category): (3) Some college.
+Occupation: NA. Marital status: NA. LGBT status: NA.
+Household size (including children): (1) One person, I live by myself.
+Number of HH members age 0–1: 0. Age 2–5: 0. Age 6–12: 0. Age 13–17: 0. Age 18+: 1.
+Census region (4-category): (1) Northeast. Census region (9-category): (2) Mid-Atlantic.
+Population density: (3) Urban. Interview mode: (2) Web Interview. Interview language: (1) English.
+Date mail scanned at least 50% in region: (11) 6/4/2020.
+Banner RACE1: (1) NH white 5. Banner RACE2: NA.
+Banner INCOME: (1) Less than $30,000. Banner AGE: (3) 65+. Banner HH STRUCTURE: (1) Alone.
+Prior to March 1, 2020, how many hours you usually worked each week: 0.
+Likelihood you will be employed in 30 days: (5) Not likely at all. In 3 months: (5) Not likely at all.
+Food worry in past 30 days (run out before money): (3) Never true.
+Food didn’t last and no money to get more: (3) Never true.
+
+Here is a summary of last week's pandemic snapshot:
+Context for New York covering 7 days prior to 2020-05-30 (inclusive).
+
+State: New York
+2020-05-24: Confirmed=361515, Deaths=29014, Active=268421.0, CFR=nan, Total_Test_Results=1699826.0, People_Tested=1699826.0, People_Hospitalized=77295.0
+2020-05-25: Confirmed=362764, Deaths=29103, Active=269381.0, CFR=nan, Total_Test_Results=1739449.0, People_Tested=1739449.0, People_Hospitalized=77525.0
+2020-05-26: Confirmed=363836, Deaths=29176, Active=270217.0, CFR=nan, Total_Test_Results=1774128.0, People_Tested=1774128.0, People_Hospitalized=77637.0
+2020-05-27: Confirmed=364965, Deaths=29352, Active=270981.0, CFR=nan, Total_Test_Results=1811544.0, People_Tested=1811544.0, People_Hospitalized=77838.0
+2020-05-28: Confirmed=366733, Deaths=29397, Active=272382.0, CFR=nan, Total_Test_Results=1876789.0, People_Tested=1876789.0, People_Hospitalized=78043.0
+2020-05-29: Confirmed=368284, Deaths=29509, Active=273486.0, CFR=nan, Total_Test_Results=1944130.0, People_Tested=1944130.0, People_Hospitalized=89194.0
+2020-05-30: Confirmed=369660, Deaths=29574, Active=274477.0, CFR=nan, Total_Test_Results=2005381.0, People_Tested=2005381.0, People_Hospitalized=89400.0
+
+US Aggregate
+2020-05-24: Confirmed=1639523, Deaths=98175, Active=692996.0, CFR=5.988022125947608, Total_Test_Results=4244035.0, People_Tested=14879647.0, People_Hospitalized=172574.0
+2020-05-25: Confirmed=1659085, Deaths=98717, Active=692144.0, CFR=5.950086945515149, Total_Test_Results=4332754.0, People_Tested=15301414.0, People_Hospitalized=173541.0
+2020-05-26: Confirmed=1677077, Deaths=99389, Active=697325.0, CFR=5.926323001269471, Total_Test_Results=4424653.0, People_Tested=15640192.0, People_Hospitalized=190823.0
+2020-05-27: Confirmed=1695724, Deaths=100839, Active=701271.0, CFR=5.9466634900490885, Total_Test_Results=4545950.0, People_Tested=15975615.0, People_Hospitalized=192446.0
+2020-05-28: Confirmed=1717142, Deaths=101920, Active=706063.0, CFR=5.93544389456434, Total_Test_Results=4695037.0, People_Tested=16462973.0, People_Hospitalized=194975.0
+2020-05-29: Confirmed=1741844, Deaths=103067, Active=714560.0, CFR=5.917120017636482, Total_Test_Results=4842889.0, People_Tested=16935999.0, People_Hospitalized=207694.0
+2020-05-30: Confirmed=1765135, Deaths=104031, Active=718341.0, CFR=5.893656859107094, Total_Test_Results=4974828.0, People_Tested=17355438.0, People_Hospitalized=209134.0
+
+You need to answer the following question as a single numeric probability.
+Question: Environment information above is macro statistics up to the past week. If you go to work, what is the probability that you will be infected with COVID-19?
+
+Answer format: Output one decimal number in [0,1] with EXACTLY three decimal places. Forbidden: rounding to or outputting values at multiples of 0.05 (e.g., 0.050, 0.100, 0.150, 0.200, ...). Return only the number; no text or symbols.

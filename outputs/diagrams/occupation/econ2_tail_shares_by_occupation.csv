@@ -1,0 +1,73 @@
+occupation,threshold,human_share,llm_share,human_n,llm_n
+(16) Office and Administrative Support Occupations,60,0.0,0.0,23,34
+(16) Office and Administrative Support Occupations,80,0.0,0.0,23,34
+(16) Office and Administrative Support Occupations,100,0.0,0.0,23,34
+"(15) Education, Training, and Library Occupations",60,0.0,0.0,25,33
+"(15) Education, Training, and Library Occupations",80,0.0,0.0,25,33
+"(15) Education, Training, and Library Occupations",100,0.0,0.0,25,33
+(14) Sales and Related Occupations,60,0.0,0.0,8,24
+(14) Sales and Related Occupations,80,0.0,0.0,8,24
+(14) Sales and Related Occupations,100,0.0,0.0,8,24
+(21) Management Occupations,60,0.0,0.0,13,13
+(21) Management Occupations,80,0.0,0.0,13,13
+(21) Management Occupations,100,0.0,0.0,13,13
+(20) Business and Financial Operations Occupations,60,0.047619047619047616,0.047619047619047616,21,21
+(20) Business and Financial Operations Occupations,80,0.0,0.0,21,21
+(20) Business and Financial Operations Occupations,100,0.0,0.0,21,21
+(9) Healthcare Practitioners and Technical Occupations,60,0.1,0.0,10,14
+(9) Healthcare Practitioners and Technical Occupations,80,0.0,0.0,10,14
+(9) Healthcare Practitioners and Technical Occupations,100,0.0,0.0,10,14
+(25) Have never worked,60,0.2857142857142857,,7,0
+(25) Have never worked,80,0.14285714285714285,,7,0
+(25) Have never worked,100,0.0,,7,0
+(17) Food Preparation and Serving Related Occupations,60,0.0,0.0,2,11
+(17) Food Preparation and Serving Related Occupations,80,0.0,0.0,2,11
+(17) Food Preparation and Serving Related Occupations,100,0.0,0.0,2,11
+"(4) Installation, Maintenance, and Repair Occupations",60,0.0,0.0,5,10
+"(4) Installation, Maintenance, and Repair Occupations",80,0.0,0.0,5,10
+"(4) Installation, Maintenance, and Repair Occupations",100,0.0,0.0,5,10
+(22) Transportation and Material Moving Occupations,60,0.09090909090909091,0.23076923076923078,11,13
+(22) Transportation and Material Moving Occupations,80,0.0,0.0,11,13
+(22) Transportation and Material Moving Occupations,100,0.0,0.0,11,13
+(3) Healthcare Support Occupations,60,0.0,0.0,5,13
+(3) Healthcare Support Occupations,80,0.0,0.0,5,13
+(3) Healthcare Support Occupations,100,0.0,0.0,5,13
+(7) Production Occupations,60,0.0,0.0,6,9
+(7) Production Occupations,80,0.0,0.0,6,9
+(7) Production Occupations,100,0.0,0.0,6,9
+(11) Protective Service Occupations,60,0.0,0.0,10,12
+(11) Protective Service Occupations,80,0.0,0.0,10,12
+(11) Protective Service Occupations,100,0.0,0.0,10,12
+(6) Construction and Extraction Occupations,60,0.0,0.0,4,8
+(6) Construction and Extraction Occupations,80,0.0,0.0,4,8
+(6) Construction and Extraction Occupations,100,0.0,0.0,4,8
+(12) Personal Care and Service Occupations,60,0.0,0.0,5,8
+(12) Personal Care and Service Occupations,80,0.0,0.0,5,8
+(12) Personal Care and Service Occupations,100,0.0,0.0,5,8
+(13) Computer and Mathematical Occupations,60,0.14285714285714285,0.0,7,7
+(13) Computer and Mathematical Occupations,80,0.14285714285714285,0.0,7,7
+(13) Computer and Mathematical Occupations,100,0.0,0.0,7,7
+"(1) Arts, Design, Entertainment, Sports, and Media Occupations",60,0.0,0.0,5,8
+"(1) Arts, Design, Entertainment, Sports, and Media Occupations",80,0.0,0.0,5,8
+"(1) Arts, Design, Entertainment, Sports, and Media Occupations",100,0.0,0.0,5,8
+(8) Building and Grounds Cleaning and Maintenance Occupations,60,0.0,0.0,4,7
+(8) Building and Grounds Cleaning and Maintenance Occupations,80,0.0,0.0,4,7
+(8) Building and Grounds Cleaning and Maintenance Occupations,100,0.0,0.0,4,7
+(5) Architecture and Engineering Occupations,60,0.0,0.0,3,4
+(5) Architecture and Engineering Occupations,80,0.0,0.0,3,4
+(5) Architecture and Engineering Occupations,100,0.0,0.0,3,4
+(2) Community and Social Service Occupations,60,0.0,0.0,2,2
+(2) Community and Social Service Occupations,80,0.0,0.0,2,2
+(2) Community and Social Service Occupations,100,0.0,0.0,2,2
+"(19) Farming, Fishing, and Forestry Occupations",60,0.0,0.0,2,1
+"(19) Farming, Fishing, and Forestry Occupations",80,0.0,0.0,2,1
+"(19) Farming, Fishing, and Forestry Occupations",100,0.0,0.0,2,1
+"(10) Life, Physical, and Social Science Occupations",60,0.0,0.0,3,3
+"(10) Life, Physical, and Social Science Occupations",80,0.0,0.0,3,3
+"(10) Life, Physical, and Social Science Occupations",100,0.0,0.0,3,3
+(18) Legal Occupations,60,,0.0,0,2
+(18) Legal Occupations,80,,0.0,0,2
+(18) Legal Occupations,100,,0.0,0,2
+(23) Military Specific Occupations,60,0.0,0.0,1,1
+(23) Military Specific Occupations,80,0.0,0.0,1,1
+(23) Military Specific Occupations,100,0.0,0.0,1,1

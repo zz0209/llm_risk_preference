@@ -1,0 +1,29 @@
+Variables and causal roles for daily go-to-work decision under infection risk
+
+- Confirmed
+  - Definition: Cumulative confirmed COVID-19 cases to date in the state.
+  - Causal: Higher cumulative infections imply broader historical spread and lingering prevalence in social networks, raising the baseline probability of encountering an infectious person at work.
+
+- Deaths
+  - Definition: Cumulative confirmed deaths due to COVID-19 in the state.
+  - Causal: Greater mortality signals disease severity and increases the expected cost of infection, making the worker require larger benefits to justify going to work amid exposure.
+
+- Active
+  - Definition: Estimated currently active COVID-19 cases in the state.
+  - Causal: A larger actively infectious pool directly increases the chance of exposure during commuting and on-site interactions, tilting the decision toward staying home.
+
+- Case_Fatality_Ratio
+  - Definition: Share of confirmed cases resulting in death (CFR).
+  - Causal: A higher CFR raises the expected harm conditional on infection, so even at the same exposure probability the expected loss from going to work is higher.
+
+- Total_Test_Results
+  - Definition: Total number of tests performed (specimens) to date.
+  - Causal: Greater testing lowers under-detection and uncertainty in other metrics, enabling more reliable risk assessments; limited testing may understate prevalence and lead to overly risky work decisions.
+
+- People_Tested
+  - Definition: Total number of unique individuals tested to date.
+  - Causal: Broader coverage reflects better surveillance of the population, so decisions rely on truer prevalence rather than repeat-testing artifacts, improving calibration of willingness to work.
+
+- People_Hospitalized
+  - Definition: Cumulative number of people hospitalized with COVID-19.
+  - Causal: Higher hospitalizations indicate more severe disease burden and possible healthcare strain, increasing the expected cost of getting sick and discouraging on-site work when exposure is nontrivial.

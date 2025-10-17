@@ -1,0 +1,23 @@
+occupation,N_pairs,MAE,RMSE,PearsonR
+(16) Office and Administrative Support Occupations,22,2.8636363636363638,7.009733492534765,0.7000563392247008
+"(15) Education, Training, and Library Occupations",25,4.04,7.389181280764467,0.7851402570350972
+(14) Sales and Related Occupations,7,7.285714285714286,13.892443989449804,0.32262968612133125
+(21) Management Occupations,12,4.333333333333333,6.7700320038633,0.8489498420551839
+(20) Business and Financial Operations Occupations,20,3.45,10.471389592599447,0.4659725945927083
+(9) Healthcare Practitioners and Technical Occupations,10,3.7,8.154753215150045,0.5614709523243077
+(17) Food Preparation and Serving Related Occupations,2,20.0,25.0,
+"(4) Installation, Maintenance, and Repair Occupations",5,3.4,6.767569726275452,0.9067032057504285
+(22) Transportation and Material Moving Occupations,10,7.4,11.16243700990066,0.7799069439093435
+(3) Healthcare Support Occupations,5,11.8,14.594519519326424,0.19022115253659636
+(7) Production Occupations,6,15.333333333333334,19.807406022327438,0.32916065143084966
+(11) Protective Service Occupations,10,3.2,4.8373546489791295,0.8471755734604118
+(6) Construction and Extraction Occupations,4,9.25,16.194134740701646,0.5782372684571375
+(12) Personal Care and Service Occupations,5,17.8,24.4989795705862,-0.07546464479420059
+(13) Computer and Mathematical Occupations,7,8.0,13.97957694025722,0.756422734335134
+"(1) Arts, Design, Entertainment, Sports, and Media Occupations",5,5.0,8.06225774829855,0.6000991981489789
+(8) Building and Grounds Cleaning and Maintenance Occupations,4,14.75,20.862646045025066,-0.3791056080839421
+(5) Architecture and Engineering Occupations,3,2.6666666666666665,4.618802153517006,0.9686196045011364
+(2) Community and Social Service Occupations,2,17.5,24.748737341529164,
+"(19) Farming, Fishing, and Forestry Occupations",1,15.0,15.0,
+"(10) Life, Physical, and Social Science Occupations",3,5.0,8.660254037844387,-0.38988466275458467
+(23) Military Specific Occupations,1,36.0,36.0,
